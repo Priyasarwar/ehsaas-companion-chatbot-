@@ -1,0 +1,12 @@
+User: i feel sad
+Bot: Sorry, I couldn’t understand.
+
+User: i feel sad .. can't figure out what to do
+Bot: Sorry, I couldn’t understand.
+
+User: priya
+Bot: Sorry, I couldn’t understand.
+
+User: feel sad
+Bot: Sorry, I couldn’t understand.
+

@@ -13,7 +13,13 @@ Most emotional support agents are English-centric and follow Western therapeutic
 ##  Dataset Contribution
 The core of this project is a curated dataset of **5,000 conversational turns** designed for fine-tuning Large Language Models (LLMs).
 * **Language Mix:** 60% Hinglish (Roman), 30% English, 10% Roman Hindi.
-* **5 Pillars of Support:** Daily Grind (Academics), Social/Heart (Relationships), Inner Critic (Self-doubt), Complexity (Venting), and Safety (Crisis markers).
+The core contribution is five emotional pillars:
+1. **The Daily Grind (1,500 entries):** Academic stress and career confusion.
+2. **Heart & Social (1,250 entries):** Relationships and loneliness.
+3. **The Inner Critic (1,000 entries):** Imposter syndrome and self-doubt.
+4. **Deepening & Complexity (750 entries):** Mixed emotions and venting.
+5. **Safety & High Stakes (500 entries):** Crisis detection and escalation
+[View the full Dataset Methodology and Distribution here](./DATASET_DETAILS.md)
 
 ## Technical Roadmap (Work in Progress)
 currently executing the following research pipeline:

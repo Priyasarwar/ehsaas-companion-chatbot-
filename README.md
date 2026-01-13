@@ -30,8 +30,7 @@ Click on any pillar to view the raw JSON data:
 * [**Pillar 4: Deepening & Complexity**](./data/pilar4.json) – Mixed emotions, venting, and emotional resistance.
 * [**Pillar 5: Safety & High Stakes**](./data/pilar5.json) – Panic attacks, crisis ideation, and abuse/bullying.
 
-##  Data Sample 
-./data/sample data.json
+##  Data Sample (data/sample data.json)
 
 ## Technical Roadmap 
 currently executing the following research pipeline:

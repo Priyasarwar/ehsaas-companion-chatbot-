@@ -30,8 +30,8 @@ currently executing the following research pipeline:
 ##  Dataset Access
 Click on any pillar to view the raw JSON data:
 
-* [**Pillar 1: The Daily Grind**](./data/pilar-1.jsonl) – Academic stress, burnout, and career confusion.
-* [**Pillar 2: Heart & Social**](./data/pilar2.jsonl) – Breakup pain, loneliness, and relationship nuances.
-* [**Pillar 3: The Inner Critic**](./data/pilar3.jsonl) – Imposter syndrome, self-doubt, and addiction.
-* [**Pillar 4: Deepening & Complexity**](./data/pilar4.jsonl) – Mixed emotions, venting, and emotional resistance.
-* [**Pillar 5: Safety & High Stakes**](./data/pilar5.jsonl) – Panic attacks, crisis ideation, and abuse/bullying.
+* [**Pillar 1: The Daily Grind**](./data/pilar-1.json) – Academic stress, burnout, and career confusion.
+* [**Pillar 2: Heart & Social**](./data/pilar2.json) – Breakup pain, loneliness, and relationship nuances.
+* [**Pillar 3: The Inner Critic**](./data/pilar3.json) – Imposter syndrome, self-doubt, and addiction.
+* [**Pillar 4: Deepening & Complexity**](./data/pilar4.json) – Mixed emotions, venting, and emotional resistance.
+* [**Pillar 5: Safety & High Stakes**](./data/pilar5.json) – Panic attacks, crisis ideation, and abuse/bullying.

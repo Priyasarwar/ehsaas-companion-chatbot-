@@ -4424,6 +4424,941 @@ ency show hoti hai jo embarrassing hai. Tu adult hai but treated nahi ja raha wa
     }
   },
   {
+    "id": "ehsaas_p4_4297",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Meri girlfriend constantly mera phone check karti. Messages, calls, everything. Trust hi nahi hai. Thak gaya hoon prove karte karte ki main loyal hoon."
+      },
+      {
+        "role": "assistant",
+        "content": "Yaar that constant checking is exhausting. Loyalty prove karte karte khud ka peace chala jaata. Trust nahi toh relationship mein kya bacha?"
+      }
+    ],
+    "metadata": {
+      "language": "hinglish",
+      "intent": "venting",
+      "conversation_stage": "initial",
+      "severity": 6,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_p4_4298",
+    "messages": [
+      {
+        "role": "user",
+        "content": "I failed my CA finals for the second time. Everyone's asking 'ab kya plan hai'. I don't have answers. I'm just tired and lost."
+      },
+      {
+        "role": "assistant",
+        "content": "Two attempts down and everyone wants a plan when you're still processing the failure. That pressure to have answers when you're just trying to breathe - it's heavy."
+      }
+    ],
+    "metadata": {
+      "language": "english",
+      "intent": "venting",
+      "conversation_stage": "initial",
+      "severity": 7,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_p4_4299",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Mere office mein overtime bohot hota but payment nahi. Manager kehta 'yeh toh job ka part hai'. Daily 12 ghante kaam kar raha without extra pay."
+      },
+      {
+        "role": "assistant",
+        "content": "12 ghante daily without extra pay? Yeh exploitation hai yaar. 'Job ka part' bolke normalize kar rahe jo galat hai fundamentally."
+      }
+    ],
+    "metadata": {
+      "language": "hinglish",
+      "intent": "venting",
+      "conversation_stage": "initial",
+      "severity": 6,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_p4_4300",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Mummy ne mera WhatsApp backup check kiya. Private conversations sab padhe. Ab naraz hain kyunki maine friend ko unke baare complain ki thi. Privacy zero hai."
+      },
+      {
+        "role": "assistant",
+        "content": "Privacy invade karke phir tumpe naraz? Woh galat hai yaar. Tumhara vent karna toh right tha, unka spy karna wrong tha."
+      }
+    ],
+    "metadata": {
+      "language": "hinglish",
+      "intent": "venting",
+      "conversation_stage": "initial",
+      "severity": 6,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_p4_4301",
+    "messages": [
+      {
+        "role": "user",
+        "content": "My ex is dating my close friend now. They're posting pictures together. It feels like double betrayal and social media won't let me forget."
+      },
+      {
+        "role": "assistant",
+        "content": "Both moved on together while you're still healing. That double loss plus constant social media reminders - there's no escape from the hurt."
+      }
+    ],
+    "metadata": {
+      "language": "english",
+      "intent": "venting",
+      "conversation_stage": "initial",
+      "severity": 7,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_p4_4302",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Papa retired ho gaye aur ab main ghar ka akela earning member. Salary 40k, kharcha 35k. Savings zero. Future plan kaise karun?"
+      },
+      {
+        "role": "assistant",
+        "content": "5k bachna matlab no cushion for anything. That financial trap at this age - planning future toh door, present hi manage nahi ho raha. Bohot heavy hai yeh."
+      }
+    ],
+    "metadata": {
+      "language": "hinglish",
+      "intent": "venting",
+      "conversation_stage": "initial",
+      "severity": 7,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_p4_4303",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Mere group mein sab couples hain. Main akeli single hoon. Har plan pe third wheel lagti. Ab jaane ka mann hi nahi karta."
+      },
+      {
+        "role": "assistant",
+        "content": "Permanent third wheel banna apne hi group mein - that loneliness hits different. Jaane se bhi akela, na jaane se bhi akela feel hota."
+      }
+    ],
+    "metadata": {
+      "language": "hinglish",
+      "intent": "venting",
+      "conversation_stage": "initial",
+      "severity": 5,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_p4_4304",
+    "messages": [
+      {
+        "role": "user",
+        "content": "I gained weight during lockdown. Family keeps commenting 'kitni moti ho gayi'. Every gathering is body-shaming session. My confidence is destroyed."
+      },
+      {
+        "role": "assistant",
+        "content": "Family turning every gathering into commentary on your body? That's cruel. Your confidence taking hits from people who should be supporting you - painful."
+      }
+    ],
+    "metadata": {
+      "language": "english",
+      "intent": "venting",
+      "conversation_stage": "initial",
+      "severity": 6,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_p4_4305",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Meri behen ki shaadi mein saare paise lag gaye. Ab mere college fees ke liye bole 'loan le le beta'. Uske liye sab, mere liye compromise."
+      },
+      {
+        "role": "assistant",
+        "content": "Unka investment dono mein equal nahi hai - that hurts yaar. Priority clear dikhti hai actions mein, even if love equal ho."
+      }
+    ],
+    "metadata": {
+      "language": "hinglish",
+      "intent": "venting",
+      "conversation_stage": "initial",
+      "severity": 6,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_p4_4306",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Main therapy afford nahi kar pata regularly. Monthly 2-3 sessions skip karne padte financial reasons se. Treatment hi inconsistent ho raha."
+      },
+      {
+        "role": "assistant",
+        "content": "Treatment jo heal karna chahiye woh afford nahi ho raha consistently. That gap between needing help and accessing it - frustrating and unfair hai."
+      }
+    ],
+    "metadata": {
+      "language": "hinglish",
+      "intent": "venting",
+      "conversation_stage": "initial",
+      "severity": 7,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_p4_4307",
+    "messages": [
+      {
+        "role": "user",
+        "content": "My colleague spread rumors that I got promoted through favoritism. My hard work got reduced to office politics gossip. The whole team looks at me differently now."
+      },
+      {
+        "role": "assistant",
+        "content": "Your achievement poisoned by rumors. That celebration turned into defending your credibility - such a cheap way to steal your moment."
+      }
+    ],
+    "metadata": {
+      "language": "english",
+      "intent": "venting",
+      "conversation_stage": "initial",
+      "severity": 6,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_p4_4308",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Papa daru pee ke roz ladai karte ghar pe. Mummy roti, main sunta. 15 saal se yahi chal raha. Ab normal lagta yeh sab which scares me."
+      },
+      {
+        "role": "assistant",
+        "content": "15 saal se yeh dekh rahe aur ab normal lag raha - that numbness is survival but it's also scary ki pain ko normalize kar liya. You deserve better than this."
+      }
+    ],
+    "metadata": {
+      "language": "hinglish",
+      "intent": "venting",
+      "conversation_stage": "initial",
+      "severity": 9,
+      "escalation_needed": true
+    }
+  },
+  {
+    "id": "ehsaas_p4_4309",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Mera startup fail ho gaya. 2 saal ki mehnat, sab paise doob gaye. Sab log 'koi nahi try kiya' bol rahe but main financially ruined hoon."
+      },
+      {
+        "role": "assistant",
+        "content": "2 saal aur sab savings gone. Unka 'koi nahi' tumhare financial reality ko address nahi karta. That loss is real and heavy hai."
+      }
+    ],
+    "metadata": {
+      "language": "hinglish",
+      "intent": "venting",
+      "conversation_stage": "initial",
+      "severity": 7,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_p4_4310",
+    "messages": [
+      {
+        "role": "user",
+        "content": "I told my parents I'm struggling mentally. They said 'sab ke saath hota hai, drama mat kar'. Now I'm suffering alone and it's getting worse."
+      },
+      {
+        "role": "assistant",
+        "content": "They dismissed your pain as drama. That rejection when you reached out - now you're isolated with something that needed support, not dismissal."
+      }
+    ],
+    "metadata": {
+      "language": "english",
+      "intent": "venting",
+      "conversation_stage": "initial",
+      "severity": 8,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_p4_4311",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Mere teacher ne class mein last rank announce kiya - mera naam. 200 students ke saamne. Humiliation itni ki school jaane se darr lag raha ab."
+      },
+      {
+        "role": "assistant",
+        "content": "Public shaming 200 logon ke saamne? That's cruel yaar, not teaching. Woh embarrassment ka scar long-term rahega. Your fear of going back makes total sense."
+      }
+    ],
+    "metadata": {
+      "language": "hinglish",
+      "intent": "venting",
+      "conversation_stage": "initial",
+      "severity": 7,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_p4_4312",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Meri arranged marriage fix ho gayi. Ladka ek baar mila sirf. 3 mahine mein shaadi. Terrified hoon but sab bol rahe 'sab adjust ho jayega'."
+      },
+      {
+        "role": "assistant",
+        "content": "Stranger ke saath life commit karna 3 mahine mein? Your terror is valid yaar. 'Adjust ho jayega' dismisses the real fear of this huge leap."
+      }
+    ],
+    "metadata": {
+      "language": "hinglish",
+      "intent": "venting",
+      "conversation_stage": "initial",
+      "severity": 7,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_p4_4313",
+    "messages": [
+      {
+        "role": "user",
+        "content": "My friend borrowed 30k saying emergency. Now he bought a new phone. He's avoiding my calls. I needed that money back but he's ghosting me."
+      },
+      {
+        "role": "assistant",
+        "content": "Emergency funds went to a phone upgrade and now he's dodging you? That betrayal of trust plus financial loss - friendship took a major hit."
+      }
+    ],
+    "metadata": {
+      "language": "english",
+      "intent": "venting",
+      "conversation_stage": "initial",
+      "severity": 6,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_p4_4314",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Mere office mein layoffs chal rahe. Har din koi na koi jaata. Main 3 saal se hoon but ab lagta har meeting mein mera number aa gaya. Anxiety constant hai."
+      },
+      {
+        "role": "assistant",
+        "content": "Har din dekh rahe koi jaate - that constant threat is paralyzing. Waiting for your turn while trying to work normally, impossible hai yaar."
+      }
+    ],
+    "metadata": {
+      "language": "hinglish",
+      "intent": "venting",
+      "conversation_stage": "initial",
+      "severity": 7,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_p4_4315",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Main gym jaata regularly, diet follow karta. 6 mahine ho gaye, koi visible results nahi. Friends sab ripped dikhte. Lagta genes kharab hain."
+      },
+      {
+        "role": "assistant",
+        "content": "6 mahine consistent effort aur results nahi dikhe - that's demoralizing yaar. Friends ka quick progress dekh ke aur bura lagta. But genes blame mat lo, bodies respond differently."
+      }
+    ],
+    "metadata": {
+      "language": "hinglish",
+      "intent": "venting",
+      "conversation_stage": "initial",
+      "severity": 5,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_p4_4316",
+    "messages": [
+      {
+        "role": "user",
+        "content": "I've been single for 4 years. Family keeps asking 'koi problem toh nahi'. Like being single means I'm defective. Their concern feels like judgement."
+      },
+      {
+        "role": "assistant",
+        "content": "Their 'concern' is really them treating your relationship status as a medical condition. That constant questioning makes you doubt yourself unnecessarily."
+      }
+    ],
+    "metadata": {
+      "language": "english",
+      "intent": "venting",
+      "conversation_stage": "initial",
+      "severity": 5,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_p4_4317",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Meri girlfriend mujhe uske ex se compare karti constantly. 'Woh yeh karta tha, tum nahi'. Kabhi enough nahi lagta uske liye. Self-worth khatam ho rahi."
+      },
+      {
+        "role": "assistant",
+        "content": "Ghost se compete karwa rahi tumse. That constant comparison is destroying your confidence bit by bit. You'll never win against someone she's idealized yaar."
+      }
+    ],
+    "metadata": {
+      "language": "hinglish",
+      "intent": "venting",
+      "conversation_stage": "initial",
+      "severity": 6,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_p4_4318",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Mere parents divorce ke baad dono mujhse apna side lene ko bol rahe. Main phas gaya beech mein. Kisi ka side lu toh doosra hurt hoga."
+      },
+      {
+        "role": "assistant",
+        "content": "Unki divorce but tumhe choose karna pada sides? That's unfair yaar. You love both but they're making you the referee in their fight."
+      }
+    ],
+    "metadata": {
+      "language": "hinglish",
+      "intent": "venting",
+      "conversation_stage": "initial",
+      "severity": 7,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_p4_4319",
+    "messages": [
+      {
+        "role": "user",
+        "content": "I got rejected from 15 job interviews in 3 months. My confidence is shattered. Everyone else is getting jobs easily. I feel like a complete failure."
+      },
+      {
+        "role": "assistant",
+        "content": "Fifteen no's in three months - that rejection is brutal on self-worth. Watching others succeed while you struggle makes it feel personal, but it's not about your value."
+      }
+    ],
+    "metadata": {
+      "language": "english",
+      "intent": "venting",
+      "conversation_stage": "initial",
+      "severity": 7,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_p4_4320",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Mummy har cheez pe 'log kya kahenge' bolti. Kya pehnu, kahan jaun, kya karun - sab mein society. Meri life society ke liye jee rahi hoon, khud ke liye nahi."
+      },
+      {
+        "role": "assistant",
+        "content": "Invisible logon ki approval ke liye apni choices sacrifice karna - that's suffocating yaar. Your life hai but remote control kisi aur ke paas."
+      }
+    ],
+    "metadata": {
+      "language": "hinglish",
+      "intent": "venting",
+      "conversation_stage": "initial",
+      "severity": 6,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_p4_4321",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Mere college mein group project tha. Maine pura kaam kiya, baaki logo ne kuch nahi. Presentation mein sab ne equal credit liya. Teacher ko complain bhi nahi kar sakta."
+      },
+      {
+        "role": "assistant",
+        "content": "Tumhara kaam, unka credit. System hi designed hai freeloaders ko protect karne ke liye. Your effort invisible ho gaya 'group work' ke label mein."
+      }
+    ],
+    "metadata": {
+      "language": "hinglish",
+      "intent": "venting",
+      "conversation_stage": "initial",
+      "severity": 5,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_p4_4322",
+    "messages": [
+      {
+        "role": "user",
+        "content": "My mental health is getting worse but I can't afford therapy. Free resources help only so much. I need real help but money is the barrier."
+      },
+      {
+        "role": "assistant",
+        "content": "Knowing what you need but unable to access it because of money - that gap is frustrating and unfair. Healthcare being privilege when it should be right."
+      }
+    ],
+    "metadata": {
+      "language": "english",
+      "intent": "venting",
+      "conversation_stage": "initial",
+      "severity": 7,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_p4_4323",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Papa ne ghar ke saamne mujhe daanta loudly. Neighbours sab dekh rahe the. 24 saal ka hoon but still public humiliation. Respect zero hai."
+      },
+      {
+        "role": "assistant",
+        "content": "24 pe bhi public mein humiliate karna? That disregard for your dignity neighbors ke saamne - embarrassment ka impact long lasting hota hai yaar."
+      }
+    ],
+    "metadata": {
+      "language": "hinglish",
+      "intent": "venting",
+      "conversation_stage": "initial",
+      "severity": 6,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_p4_4324",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Mera best friend meri crush ko propose kar diya knowing I liked her. Ab dono date kar rahe. Friendship aur feelings dono ka nuksaan hua."
+      },
+      {
+        "role": "assistant",
+        "content": "He knew you liked her and still went ahead? That boundary crossing is betrayal yaar. Ab dono cheezon ka loss ek saath - brutal hai."
+      }
+    ],
+    "metadata": {
+      "language": "hinglish",
+      "intent": "venting",
+      "conversation_stage": "initial",
+      "severity": 6,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_p4_4325",
+    "messages": [
+      {
+        "role": "user",
+        "content": "I organized my birthday party. Only 4 people showed up out of 25 invited. Rest didn't even cancel. I felt so humiliated and unwanted."
+      },
+      {
+        "role": "assistant",
+        "content": "That empty room when you expected people - the hurt is deep. Not even courtesy of canceling, just ghosted. That rejection stings badly."
+      }
+    ],
+    "metadata": {
+      "language": "english",
+      "intent": "venting",
+      "conversation_stage": "initial",
+      "severity": 6,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_p4_4326",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Mere bhai ka startup successful ho gaya. Family mein bas uski baat hoti. Main bhi achha kar raha apne field mein but invisible ho gaya comparison mein."
+      },
+      {
+        "role": "assistant",
+        "content": "His success ne tumhe shadow mein daal diya. Your achievements exist but ignored hain uski chamak mein. That invisibility in your own family hurts."
+      }
+    ],
+    "metadata": {
+      "language": "hinglish",
+      "intent": "venting",
+      "conversation_stage": "initial",
+      "severity": 6,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_p4_4327",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Meri girlfriend ne mujhe block kar diya fight ke baad. Ab unblock nahi kar rahi. Koi baat karne ka raasta hi nahi. Power play kar rahi hai."
+      },
+      {
+        "role": "assistant",
+        "content": "Blocking instead of talking is control move hai. Tumhe powerless bana diya communication ke liye - waiting mein rakhna torture hai yaar."
+      }
+    ],
+    "metadata": {
+      "language": "hinglish",
+      "intent": "venting",
+      "conversation_stage": "initial",
+      "severity": 5,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_p4_4328",
+    "messages": [
+      {
+        "role": "user",
+        "content": "My company shifted offices to another city. Either relocate or resign. My whole life is here - family, friends, everything. One decision destroyed my stability."
+      },
+      {
+        "role": "assistant",
+        "content": "They upended your entire life with one announcement. Impossible choice between job and everything else that matters. That's brutal positioning."
+      }
+    ],
+    "metadata": {
+      "language": "english",
+      "intent": "venting",
+      "conversation_stage": "initial",
+      "severity": 7,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_p4_4329",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Mere parents ne mera phone check kiya aur girlfriend ke messages padhe. Ab ghar mein hungama hai aur mobile bhi le liya. Privacy naam ki cheez nahi."
+      },
+      {
+        "role": "assistant",
+        "content": "Snooping karke phir punishment? Double violation hai yeh - privacy breach aur phir control. At your age, this is suffocating yaar."
+      }
+    ],
+    "metadata": {
+      "language": "hinglish",
+      "intent": "venting",
+      "conversation_stage": "initial",
+      "severity": 6,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_p4_4330",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Main UPSC prepare kar raha 3 saal se. Friends sab settled hain jobs mein. Main yahan stuck hoon same room mein. Feel hota youth waste ho raha."
+      },
+      {
+        "role": "assistant",
+        "content": "Teen saal pause pe while everyone moves forward - that comparison is heavy yaar. Your investment vs their progress, that gap feels like life passing by."
+      }
+    ],
+    "metadata": {
+      "language": "hinglish",
+      "intent": "venting",
+      "conversation_stage": "initial",
+      "severity": 7,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_p4_4331",
+    "messages": [
+      {
+        "role": "user",
+        "content": "I had severe anxiety attack before exam. My hands were shaking, couldn't breathe. Nobody took it seriously. They said 'everyone gets nervous, just write'."
+      },
+      {
+        "role": "assistant",
+        "content": "Medical event dismissed as normal nervousness? That minimizing when you couldn't physically function - your struggle deserved concern, not dismissal."
+      }
+    ],
+    "metadata": {
+      "language": "english",
+      "intent": "venting",
+      "conversation_stage": "initial",
+      "severity": 7,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_p4_4332",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Meri salary same position ke baaki logon se kam hai. HR se baat ki toh bole 'performance based'. But mera performance toh achha hai reviews mein."
+      },
+      {
+        "role": "assistant",
+        "content": "Same work, less pay, aur excuse bhi dhang ka nahi. That undervaluing when your performance is solid - disrespect hai yaar, plain and simple."
+      }
+    ],
+    "metadata": {
+      "language": "hinglish",
+      "intent": "venting",
+      "conversation_stage": "initial",
+      "severity": 7,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_p4_4333",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Mere coaching mein teacher favorite students ko zyada time dete. Fees toh same bhar raha but attention unequal hai. Invisible feel hota class mein."
+      },
+      {
+        "role": "assistant",
+        "content": "Same fees but unequal treatment? That favoritism when you're paying equally is unfair yaar. Tumhara bhi right hai attention pe."
+      }
+    ],
+    "metadata": {
+      "language": "hinglish",
+      "intent": "venting",
+      "conversation_stage": "initial",
+      "severity": 5,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_p4_4334",
+    "messages": [
+      {
+        "role": "user",
+        "content": "My parents read my diary without permission. Now they're angry at what I wrote privately about them. They violated my privacy and I'm the one in trouble."
+      },
+      {
+        "role": "assistant",
+        "content": "They invaded your private thoughts then punished you for having them? That's backwards. Your diary was your safe space and they destroyed that."
+      }
+    ],
+    "metadata": {
+      "language": "english",
+      "intent": "venting",
+      "conversation_stage": "initial",
+      "severity": 6,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_p4_4335",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Mera promotion kisi aur ko de diya jo manager ka relative hai. Pure office ko pata nepotism hai but koi kuch nahi bolta. Mehnat bekar gayi."
+      },
+      {
+        "role": "assistant",
+        "content": "Merit haar gayi connection se openly. Your hard work invisible ho gaya family ties ke saamne. System rigged hai aur sab chup hain."
+      }
+    ],
+    "metadata": {
+      "language": "hinglish",
+      "intent": "venting",
+      "conversation_stage": "initial",
+      "severity": 7,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_p4_4336",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Main freelancer hoon. Client ne 2 mahine se payment nahi di. Kaam complete hai but 'process mein hai' bolke taal rahe. Financially tight ho raha."
+      },
+      {
+        "role": "assistant",
+        "content": "Kaam tumne complete kiya, use bhi kar rahe, but payment pe stalling. That exploitation using 'process' excuse when they have your work - frustrating hai."
+      }
+    ],
+    "metadata": {
+      "language": "hinglish",
+      "intent":[
+  {
+    "id": "ehsaas_p4_4285",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Boss ne meeting mein mera idea reject kiya. Ek ghante baad same idea present kiya apne naam se. Sab praise kar rahe usko. Main yahan chup baitha."
+      },
+      {
+        "role": "assistant",
+        "content": "Yaar that's straight-up theft. Your idea, his credit, and you have to watch him get praised for your thinking. That burns."
+      }
+    ],
+    "metadata": {
+      "language": "hinglish",
+      "intent": "venting",
+      "conversation_stage": "initial",
+      "severity": 6,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_p4_4286",
+    "messages": [
+      {
+        "role": "user",
+        "content": "My girlfriend broke up over text after 3 years. Not even a call. Just 'I don't feel the same anymore' and she's gone. Three years reduced to a paragraph."
+      },
+      {
+        "role": "assistant",
+        "content": "Three years and you got a text? That's cruel. You deserved a real conversation, not a paragraph ending to years of your life together."
+      }
+    ],
+    "metadata": {
+      "language": "english",
+      "intent": "venting",
+      "conversation_stage": "initial",
+      "severity": 7,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_p4_4287",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Papa ne mera bike bech diya bina bataye. Woh bike maine apni salary se li thi. Bole 'ghar ke zaroorat thi'. Par puchh toh sakte the?"
+      },
+      {
+        "role": "assistant",
+        "content": "Your bike, your money, but no say in the decision? That disregard for your ownership - even if it's family need, basic respect toh banti hai."
+      }
+    ],
+    "metadata": {
+      "language": "hinglish",
+      "intent": "venting",
+      "conversation_stage": "initial",
+      "severity": 6,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_p4_4288",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Meri best friend ki shaadi mein bridesmaid nahi banayi mujhe. Cousins ko banayi jo barely jaanti hai. 10 saal ki dosti ka yeh value?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ten years and you got sidelined for family politics. That exclusion from her big day - it questions everything about where you actually stand with her."
+      }
+    ],
+    "metadata": {
+      "language": "hinglish",
+      "intent": "venting",
+      "conversation_stage": "initial",
+      "severity": 6,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_p4_4289",
+    "messages": [
+      {
+        "role": "user",
+        "content": "I studied so hard for this exam. Got 89%. My parents' reaction? 'Why not 95 like Priya?' No congratulations, just comparison. I'm exhausted."
+      },
+      {
+        "role": "assistant",
+        "content": "89% is solid work and they can't even acknowledge it before comparing? That 'why not more' when you gave everything - it kills the achievement completely."
+      }
+    ],
+    "metadata": {
+      "language": "english",
+      "intent": "venting",
+      "conversation_stage": "initial",
+      "severity": 6,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_p4_4290",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Mummy ne mera room rearrange kar diya jab main office mein tha. Sab kuch change ho gaya without permission. Meri space hai yeh but control nahi."
+      },
+      {
+        "role": "assistant",
+        "content": "Your space got reorganized without even asking? That's not helping, that's controlling even how you exist in your own room. Basic respect missing hai."
+      }
+    ],
+    "metadata": {
+      "language": "hinglish",
+      "intent": "venting",
+      "conversation_stage": "initial",
+      "severity": 5,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_p4_4291",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Mere dost ne 20k udhar liye 6 mahine pehle. Ab phone ignore karta hai. Mutual friends se pata chala naya iPhone kharida usne. Betrayal lagta hai."
+      },
+      {
+        "role": "assistant",
+        "content": "Your money going towards his iPhone while he dodges you? That's not forgetting, that's deliberate avoidance. Friendship pe question mark lag gaya."
+      }
+    ],
+    "metadata": {
+      "language": "hinglish",
+      "intent": "venting",
+      "conversation_stage": "initial",
+      "severity": 6,
+      "escalation_needed": false
+    }
+  },
+  {
     "id": "ehsaas_p4_4292",
     "messages": [
       {
@@ -4523,3 +5458,781 @@ ency show hoti hai jo embarrassing hai. Tu adult hai but treated nahi ja raha wa
       "escalation_needed": true
     }
   },
+  {
+    "id": "ehsaas_p4_4297",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Meri girlfriend constantly mera phone check karti. Messages, calls, everything. Trust hi nahi hai. Thak gaya hoon prove karte karte ki main loyal hoon."
+      },
+      {
+        "role": "assistant",
+        "content": "Yaar that constant checking is exhausting. Loyalty prove karte karte khud ka peace chala jaata. Trust nahi toh relationship mein kya bacha?"
+      }
+    ],
+    "metadata": {
+      "language": "hinglish",
+      "intent": "venting",
+      "conversation_stage": "initial",
+      "severity": 6,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_p4_4298",
+    "messages": [
+      {
+        "role": "user",
+        "content": "I failed my CA finals for the second time. Everyone's asking 'ab kya plan hai'. I don't have answers. I'm just tired and lost."
+      },
+      {
+        "role": "assistant",
+        "content": "Two attempts down and everyone wants a plan when you're still processing the failure. That pressure to have answers when you're just trying to breathe - it's heavy."
+      }
+    ],
+    "metadata": {
+      "language": "english",
+      "intent": "venting",
+      "conversation_stage": "initial",
+      "severity": 7,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_p4_4299",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Mere office mein overtime bohot hota but payment nahi. Manager kehta 'yeh toh job ka part hai'. Daily 12 ghante kaam kar raha without extra pay."
+      },
+      {
+        "role": "assistant",
+        "content": "12 ghante daily without extra pay? Yeh exploitation hai yaar. 'Job ka part' bolke normalize kar rahe jo galat hai fundamentally."
+      }
+    ],
+    "metadata": {
+      "language": "hinglish",
+      "intent": "venting",
+      "conversation_stage": "initial",
+      "severity": 6,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_p4_4300",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Mummy ne mera WhatsApp backup check kiya. Private conversations sab padhe. Ab naraz hain kyunki maine friend ko unke baare complain ki thi. Privacy zero hai."
+      },
+      {
+        "role": "assistant",
+        "content": "Privacy invade karke phir tumpe naraz? Woh galat hai yaar. Tumhara vent karna toh right tha, unka spy karna wrong tha."
+      }
+    ],
+    "metadata": {
+      "language": "hinglish",
+      "intent": "venting",
+      "conversation_stage": "initial",
+      "severity": 6,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_p4_4301",
+    "messages": [
+      {
+        "role": "user",
+        "content": "My ex is dating my close friend now. They're posting pictures together. It feels like double betrayal and social media won't let me forget."
+      },
+      {
+        "role": "assistant",
+        "content": "Both moved on together while you're still healing. That double loss plus constant social media reminders - there's no escape from the hurt."
+      }
+    ],
+    "metadata": {
+      "language": "english",
+      "intent": "venting",
+      "conversation_stage": "initial",
+      "severity": 7,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_p4_4302",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Papa retired ho gaye aur ab main ghar ka akela earning member. Salary 40k, kharcha 35k. Savings zero. Future plan kaise karun?"
+      },
+      {
+        "role": "assistant",
+        "content": "5k bachna matlab no cushion for anything. That financial trap at this age - planning future toh door, present hi manage nahi ho raha. Bohot heavy hai yeh."
+      }
+    ],
+    "metadata": {
+      "language": "hinglish",
+      "intent": "venting",
+      "conversation_stage": "initial",
+      "severity": 7,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_p4_4303",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Mere group mein sab couples hain. Main akeli single hoon. Har plan pe third wheel lagti. Ab jaane ka mann hi nahi karta."
+      },
+      {
+        "role": "assistant",
+        "content": "Permanent third wheel banna apne hi group mein - that loneliness hits different. Jaane se bhi akela, na jaane se bhi akela feel hota."
+      }
+    ],
+    "metadata": {
+      "language": "hinglish",
+      "intent": "venting",
+      "conversation_stage": "initial",
+      "severity": 5,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_p4_4304",
+    "messages": [
+      {
+        "role": "user",
+        "content": "I gained weight during lockdown. Family keeps commenting 'kitni moti ho gayi'. Every gathering is body-shaming session. My confidence is destroyed."
+      },
+      {
+        "role": "assistant",
+        "content": "Family turning every gathering into commentary on your body? That's cruel. Your confidence taking hits from people who should be supporting you - painful."
+      }
+    ],
+    "metadata": {
+      "language": "english",
+      "intent": "venting",
+      "conversation_stage": "initial",
+      "severity": 6,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_p4_4305",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Meri behen ki shaadi mein saare paise lag gaye. Ab mere college fees ke liye bole 'loan le le beta'. Uske liye sab, mere liye compromise."
+      },
+      {
+        "role": "assistant",
+        "content": "Unka investment dono mein equal nahi hai - that hurts yaar. Priority clear dikhti hai actions mein, even if love equal ho."
+      }
+    ],
+    "metadata": {
+      "language": "hinglish",
+      "intent": "venting",
+      "conversation_stage": "initial",
+      "severity": 6,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_p4_4306",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Main therapy afford nahi kar pata regularly. Monthly 2-3 sessions skip karne padte financial reasons se. Treatment hi inconsistent ho raha."
+      },
+      {
+        "role": "assistant",
+        "content": "Treatment jo heal karna chahiye woh afford nahi ho raha consistently. That gap between needing help and accessing it - frustrating and unfair hai."
+      }
+    ],
+    "metadata": {
+      "language": "hinglish",
+      "intent": "venting",
+      "conversation_stage": "initial",
+      "severity": 7,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_p4_4307",
+    "messages": [
+      {
+        "role": "user",
+        "content": "My colleague spread rumors that I got promoted through favoritism. My hard work got reduced to office politics gossip. The whole team looks at me differently now."
+      },
+      {
+        "role": "assistant",
+        "content": "Your achievement poisoned by rumors. That celebration turned into defending your credibility - such a cheap way to steal your moment."
+      }
+    ],
+    "metadata": {
+      "language": "english",
+      "intent": "venting",
+      "conversation_stage": "initial",
+      "severity": 6,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_p4_4308",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Papa daru pee ke roz ladai karte ghar pe. Mummy roti, main sunta. 15 saal se yahi chal raha. Ab normal lagta yeh sab which scares me."
+      },
+      {
+        "role": "assistant",
+        "content": "15 saal se yeh dekh rahe aur ab normal lag raha - that numbness is survival but it's also scary ki pain ko normalize kar liya. You deserve better than this."
+      }
+    ],
+    "metadata": {
+      "language": "hinglish",
+      "intent": "venting",
+      "conversation_stage": "initial",
+      "severity": 9,
+      "escalation_needed": true
+    }
+  },
+  {
+    "id": "ehsaas_p4_4309",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Mera startup fail ho gaya. 2 saal ki mehnat, sab paise doob gaye. Sab log 'koi nahi try kiya' bol rahe but main financially ruined hoon."
+      },
+      {
+        "role": "assistant",
+        "content": "2 saal aur sab savings gone. Unka 'koi nahi' tumhare financial reality ko address nahi karta. That loss is real and heavy hai."
+      }
+    ],
+    "metadata": {
+      "language": "hinglish",
+      "intent": "venting",
+      "conversation_stage": "initial",
+      "severity": 7,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_p4_4310",
+    "messages": [
+      {
+        "role": "user",
+        "content": "I told my parents I'm struggling mentally. They said 'sab ke saath hota hai, drama mat kar'. Now I'm suffering alone and it's getting worse."
+      },
+      {
+        "role": "assistant",
+        "content": "They dismissed your pain as drama. That rejection when you reached out - now you're isolated with something that needed support, not dismissal."
+      }
+    ],
+    "metadata": {
+      "language": "english",
+      "intent": "venting",
+      "conversation_stage": "initial",
+      "severity": 8,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_p4_4311",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Mere teacher ne class mein last rank announce kiya - mera naam. 200 students ke saamne. Humiliation itni ki school jaane se darr lag raha ab."
+      },
+      {
+        "role": "assistant",
+        "content": "Public shaming 200 logon ke saamne? That's cruel yaar, not teaching. Woh embarrassment ka scar long-term rahega. Your fear of going back makes total sense."
+      }
+    ],
+    "metadata": {
+      "language": "hinglish",
+      "intent": "venting",
+      "conversation_stage": "initial",
+      "severity": 7,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_p4_4312",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Meri arranged marriage fix ho gayi. Ladka ek baar mila sirf. 3 mahine mein shaadi. Terrified hoon but sab bol rahe 'sab adjust ho jayega'."
+      },
+      {
+        "role": "assistant",
+        "content": "Stranger ke saath life commit karna 3 mahine mein? Your terror is valid yaar. 'Adjust ho jayega' dismisses the real fear of this huge leap."
+      }
+    ],
+    "metadata": {
+      "language": "hinglish",
+      "intent": "venting",
+      "conversation_stage": "initial",
+      "severity": 7,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_p4_4313",
+    "messages": [
+      {
+        "role": "user",
+        "content": "My friend borrowed 30k saying emergency. Now he bought a new phone. He's avoiding my calls. I needed that money back but he's ghosting me."
+      },
+      {
+        "role": "assistant",
+        "content": "Emergency funds went to a phone upgrade and now he's dodging you? That betrayal of trust plus financial loss - friendship took a major hit."
+      }
+    ],
+    "metadata": {
+      "language": "english",
+      "intent": "venting",
+      "conversation_stage": "initial",
+      "severity": 6,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_p4_4314",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Mere office mein layoffs chal rahe. Har din koi na koi jaata. Main 3 saal se hoon but ab lagta har meeting mein mera number aa gaya. Anxiety constant hai."
+      },
+      {
+        "role": "assistant",
+        "content": "Har din dekh rahe koi jaate - that constant threat is paralyzing. Waiting for your turn while trying to work normally, impossible hai yaar."
+      }
+    ],
+    "metadata": {
+      "language": "hinglish",
+      "intent": "venting",
+      "conversation_stage": "initial",
+      "severity": 7,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_p4_4315",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Main gym jaata regularly, diet follow karta. 6 mahine ho gaye, koi visible results nahi. Friends sab ripped dikhte. Lagta genes kharab hain."
+      },
+      {
+        "role": "assistant",
+        "content": "6 mahine consistent effort aur results nahi dikhe - that's demoralizing yaar. Friends ka quick progress dekh ke aur bura lagta. But genes blame mat lo, bodies respond differently."
+      }
+    ],
+    "metadata": {
+      "language": "hinglish",
+      "intent": "venting",
+      "conversation_stage": "initial",
+      "severity": 5,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_p4_4316",
+    "messages": [
+      {
+        "role": "user",
+        "content": "I've been single for 4 years. Family keeps asking 'koi problem toh nahi'. Like being single means I'm defective. Their concern feels like judgement."
+      },
+      {
+        "role": "assistant",
+        "content": "Their 'concern' is really them treating your relationship status as a medical condition. That constant questioning makes you doubt yourself unnecessarily."
+      }
+    ],
+    "metadata": {
+      "language": "english",
+      "intent": "venting",
+      "conversation_stage": "initial",
+      "severity": 5,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_p4_4317",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Meri girlfriend mujhe uske ex se compare karti constantly. 'Woh yeh karta tha, tum nahi'. Kabhi enough nahi lagta uske liye. Self-worth khatam ho rahi."
+      },
+      {
+        "role": "assistant",
+        "content": "Ghost se compete karwa rahi tumse. That constant comparison is destroying your confidence bit by bit. You'll never win against someone she's idealized yaar."
+      }
+    ],
+    "metadata": {
+      "language": "hinglish",
+      "intent": "venting",
+      "conversation_stage": "initial",
+      "severity": 6,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_p4_4318",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Mere parents divorce ke baad dono mujhse apna side lene ko bol rahe. Main phas gaya beech mein. Kisi ka side lu toh doosra hurt hoga."
+      },
+      {
+        "role": "assistant",
+        "content": "Unki divorce but tumhe choose karna pada sides? That's unfair yaar. You love both but they're making you the referee in their fight."
+      }
+    ],
+    "metadata": {
+      "language": "hinglish",
+      "intent": "venting",
+      "conversation_stage": "initial",
+      "severity": 7,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_p4_4319",
+    "messages": [
+      {
+        "role": "user",
+        "content": "I got rejected from 15 job interviews in 3 months. My confidence is shattered. Everyone else is getting jobs easily. I feel like a complete failure."
+      },
+      {
+        "role": "assistant",
+        "content": "Fifteen no's in three months - that rejection is brutal on self-worth. Watching others succeed while you struggle makes it feel personal, but it's not about your value."
+      }
+    ],
+    "metadata": {
+      "language": "english",
+      "intent": "venting",
+      "conversation_stage": "initial",
+      "severity": 7,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_p4_4320",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Mummy har cheez pe 'log kya kahenge' bolti. Kya pehnu, kahan jaun, kya karun - sab mein society. Meri life society ke liye jee rahi hoon, khud ke liye nahi."
+      },
+      {
+        "role": "assistant",
+        "content": "Invisible logon ki approval ke liye apni choices sacrifice karna - that's suffocating yaar. Your life hai but remote control kisi aur ke paas."
+      }
+    ],
+    "metadata": {
+      "language": "hinglish",
+      "intent": "venting",
+      "conversation_stage": "initial",
+      "severity": 6,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_p4_4321",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Mere college mein group project tha. Maine pura kaam kiya, baaki logo ne kuch nahi. Presentation mein sab ne equal credit liya. Teacher ko complain bhi nahi kar sakta."
+      },
+      {
+        "role": "assistant",
+        "content": "Tumhara kaam, unka credit. System hi designed hai freeloaders ko protect karne ke liye. Your effort invisible ho gaya 'group work' ke label mein."
+      }
+    ],
+    "metadata": {
+      "language": "hinglish",
+      "intent": "venting",
+      "conversation_stage": "initial",
+      "severity": 5,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_p4_4322",
+    "messages": [
+      {
+        "role": "user",
+        "content": "My mental health is getting worse but I can't afford therapy. Free resources help only so much. I need real help but money is the barrier."
+      },
+      {
+        "role": "assistant",
+        "content": "Knowing what you need but unable to access it because of money - that gap is frustrating and unfair. Healthcare being privilege when it should be right."
+      }
+    ],
+    "metadata": {
+      "language": "english",
+      "intent": "venting",
+      "conversation_stage": "initial",
+      "severity": 7,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_p4_4323",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Papa ne ghar ke saamne mujhe daanta loudly. Neighbours sab dekh rahe the. 24 saal ka hoon but still public humiliation. Respect zero hai."
+      },
+      {
+        "role": "assistant",
+        "content": "24 pe bhi public mein humiliate karna? That disregard for your dignity neighbors ke saamne - embarrassment ka impact long lasting hota hai yaar."
+      }
+    ],
+    "metadata": {
+      "language": "hinglish",
+      "intent": "venting",
+      "conversation_stage": "initial",
+      "severity": 6,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_p4_4324",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Mera best friend meri crush ko propose kar diya knowing I liked her. Ab dono date kar rahe. Friendship aur feelings dono ka nuksaan hua."
+      },
+      {
+        "role": "assistant",
+        "content": "He knew you liked her and still went ahead? That boundary crossing is betrayal yaar. Ab dono cheezon ka loss ek saath - brutal hai."
+      }
+    ],
+    "metadata": {
+      "language": "hinglish",
+      "intent": "venting",
+      "conversation_stage": "initial",
+      "severity": 6,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_p4_4325",
+    "messages": [
+      {
+        "role": "user",
+        "content": "I organized my birthday party. Only 4 people showed up out of 25 invited. Rest didn't even cancel. I felt so humiliated and unwanted."
+      },
+      {
+        "role": "assistant",
+        "content": "That empty room when you expected people - the hurt is deep. Not even courtesy of canceling, just ghosted. That rejection stings badly."
+      }
+    ],
+    "metadata": {
+      "language": "english",
+      "intent": "venting",
+      "conversation_stage": "initial",
+      "severity": 6,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_p4_4326",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Mere bhai ka startup successful ho gaya. Family mein bas uski baat hoti. Main bhi achha kar raha apne field mein but invisible ho gaya comparison mein."
+      },
+      {
+        "role": "assistant",
+        "content": "His success ne tumhe shadow mein daal diya. Your achievements exist but ignored hain uski chamak mein. That invisibility in your own family hurts."
+      }
+    ],
+    "metadata": {
+      "language": "hinglish",
+      "intent": "venting",
+      "conversation_stage": "initial",
+      "severity": 6,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_p4_4327",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Meri girlfriend ne mujhe block kar diya fight ke baad. Ab unblock nahi kar rahi. Koi baat karne ka raasta hi nahi. Power play kar rahi hai."
+      },
+      {
+        "role": "assistant",
+        "content": "Blocking instead of talking is control move hai. Tumhe powerless bana diya communication ke liye - waiting mein rakhna torture hai yaar."
+      }
+    ],
+    "metadata": {
+      "language": "hinglish",
+      "intent": "venting",
+      "conversation_stage": "initial",
+      "severity": 5,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_p4_4328",
+    "messages": [
+      {
+        "role": "user",
+        "content": "My company shifted offices to another city. Either relocate or resign. My whole life is here - family, friends, everything. One decision destroyed my stability."
+      },
+      {
+        "role": "assistant",
+        "content": "They upended your entire life with one announcement. Impossible choice between job and everything else that matters. That's brutal positioning."
+      }
+    ],
+    "metadata": {
+      "language": "english",
+      "intent": "venting",
+      "conversation_stage": "initial",
+      "severity": 7,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_p4_4329",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Mere parents ne mera phone check kiya aur girlfriend ke messages padhe. Ab ghar mein hungama hai aur mobile bhi le liya. Privacy naam ki cheez nahi."
+      },
+      {
+        "role": "assistant",
+        "content": "Snooping karke phir punishment? Double violation hai yeh - privacy breach aur phir control. At your age, this is suffocating yaar."
+      }
+    ],
+    "metadata": {
+      "language": "hinglish",
+      "intent": "venting",
+      "conversation_stage": "initial",
+      "severity": 6,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_p4_4330",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Main UPSC prepare kar raha 3 saal se. Friends sab settled hain jobs mein. Main yahan stuck hoon same room mein. Feel hota youth waste ho raha."
+      },
+      {
+        "role": "assistant",
+        "content": "Teen saal pause pe while everyone moves forward - that comparison is heavy yaar. Your investment vs their progress, that gap feels like life passing by."
+      }
+    ],
+    "metadata": {
+      "language": "hinglish",
+      "intent": "venting",
+      "conversation_stage": "initial",
+      "severity": 7,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_p4_4331",
+    "messages": [
+      {
+        "role": "user",
+        "content": "I had severe anxiety attack before exam. My hands were shaking, couldn't breathe. Nobody took it seriously. They said 'everyone gets nervous, just write'."
+      },
+      {
+        "role": "assistant",
+        "content": "Medical event dismissed as normal nervousness? That minimizing when you couldn't physically function - your struggle deserved concern, not dismissal."
+      }
+    ],
+    "metadata": {
+      "language": "english",
+      "intent": "venting",
+      "conversation_stage": "initial",
+      "severity": 7,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_p4_4332",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Meri salary same position ke baaki logon se kam hai. HR se baat ki toh bole 'performance based'. But mera performance toh achha hai reviews mein."
+      },
+      {
+        "role": "assistant",
+        "content": "Same work, less pay, aur excuse bhi dhang ka nahi. That undervaluing when your performance is solid - disrespect hai yaar, plain and simple."
+      }
+    ],
+    "metadata": {
+      "language": "hinglish",
+      "intent": "venting",
+      "conversation_stage": "initial",
+      "severity": 7,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_p4_4333",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Mere coaching mein teacher favorite students ko zyada time dete. Fees toh same bhar raha but attention unequal hai. Invisible feel hota class mein."
+      },
+      {
+        "role": "assistant",
+        "content": "Same fees but unequal treatment? That favoritism when you're paying equally is unfair yaar. Tumhara bhi right hai attention pe."
+      }
+    ],
+    "metadata": {
+      "language": "hinglish",
+      "intent": "venting",
+      "conversation_stage": "initial",
+      "severity": 5,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_p4_4334",
+    "messages": [
+      {
+        "role": "user",
+        "content": "My parents read my diary without permission. Now they're angry at what I wrote privately about them. They violated my privacy and I'm the one in trouble."
+      },
+      {
+        "role": "assistant",
+        "content": "They invaded your private thoughts then punished you for having them? That's backwards. Your diary was your safe space and they destroyed that."
+      }
+    ],
+    "metadata": {
+      "language": "english",
+      "intent": "venting",
+      "conversation_stage": "initial",
+      "severity": 6,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_p4_4335",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Mera promotion kisi aur ko de diya jo manager ka relative hai. Pure office ko pata nepotism hai but koi kuch nahi bolta. Mehnat bekar gayi."
+      },
+      {
+        "role": "assistant",
+        "content": "Merit haar gayi connection se openly. Your hard work invisible ho gaya family ties ke saamne. System rigged hai aur sab chup hain."
+      }
+    ],
+    "metadata": {
+      "language": "hinglish",
+      "intent": "venting",
+      "conversation_stage": "initial",
+      "severity": 7,
+      "

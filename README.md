@@ -7,7 +7,7 @@
 ##  Project Overview
 Most emotional support agents are English-centric and follow Western therapeutic norms. **Ehsaas** bridges this gap by focusing on:
 * **Code-Mixed NLP:** Handling natural Hinglish/Roman Hindi dialogue.
-* **Cultural Grounding:** Addressing specific Indian youth stressors (academic pressure, family expectations).
+* **Cultural Grounding:** Addressing specific Indian youth stressors (academic pressure , family expectations).
 * **Responsible AI:** A non-clinical, empathy-first approach that prioritizes listening over diagnosis.
 
 ##  Dataset Contribution
@@ -31,7 +31,7 @@ Click on any pillar to view the raw JSON data:
 * [**Pillar 5: Safety & High Stakes**](./data/pilar5.json) – Panic attacks, crisis ideation, and abuse/bullying.
 
 ##  Data Sample 
-[data/sample data.json]
+./data/sample data.json
 
 ## Technical Roadmap 
 currently executing the following research pipeline:

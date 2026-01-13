@@ -176,7 +176,7 @@ Total dataset size: **5,000 conversations**
 
 ---
 
-## 🌐 Language Mirroring Policy
+## Language Mirroring Policy
 
 The assistant responses are intentionally **language-aligned** with the user input:
 
@@ -185,7 +185,4 @@ The assistant responses are intentionally **language-aligned** with the user inp
 * **User: Hindi → Assistant: Hindi (Roman script only)**
 
 This design preserves conversational naturalness and cultural authenticity.
-
----
-Just tell me 👍
 

@@ -1,0 +1,61 @@
+{
+    "id": "ehsaas_p1_1059",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Viva mein professor ne itne tough questions puche ki main answer nahi de paaya. Fail kar diya. Ab supplementary dena padega."
+      },
+      {
+        "role": "assistant",
+        "content": "Tough questions aur answer nahi aa paye - fail hone ka wo moment humiliating raha hoga. Supplementary ki tension zyada hai ya embarrassment ki yaad?"
+      }
+    ],
+    "metadata": {
+      "language": "hindi",
+      "intent": "academic_stress",
+      "conversation_stage": "initial",
+      "severity": 6,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_p1_1060",
+    "messages": [
+      {
+        "role": "user",
+        "content": "I'm juggling part-time work and full-time studies. Exhausted all the time. Grades are slipping but I need the money."
+      },
+      {
+        "role": "assistant",
+        "content": "Work aur studies dono - exhaustion permanent feel ho raha hoga. Grades slip kar rahe par money zaroori hai - wo helplessness tough hai yaar?"
+      }
+    ],
+    "metadata": {
+      "language": "english",
+      "intent": "academic_stress",
+      "conversation_stage": "initial",
+      "severity": 7,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_p1_1061",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Semester khatam hone wala hai aur main already soch raha hoon next semester ka stress. Break mein bhi relax nahi kar paata."
+      },
+      {
+        "role": "assistant",
+        "content": "Ek semester khatam bhi nahi hua aur next ka stress already start - break mein bhi peace nahi. Relax nahi kar paana chronic anxiety hai ya pattern dikha raha ki hamesha yahi hota hai?"
+      }
+    ],
+    "metadata": {
+      "language": "hinglish",
+      "intent": "academic_stress",
+      "conversation_stage": "initial",
+      "severity": 6,
+      "escalation_needed": false
+    }
+  }
+]

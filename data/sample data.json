@@ -1,18 +1,3 @@
- PILLAR 1 — The Daily Grind (1,500 entries)
-Simple-to-moderate emotions with simple conversation styles.
-Emotions (6)
-Academic stress, Exam panic, Burnout, Fear of future, Family pressure, Career confusion.
-Conversation Style
-70% Single-turn,(User → Bot)
- 30% Multi-turn (2-turn).(User → Bot → User → Bot)
-Distribution
-Academic Stress – 400 (Single-turn)
-Exam Panic – 300 (Mix)
-Burnout – 250 (Mix)
-Fear of Future – 200 (Single-turn)
-Career Confusion – 200 (Multi-turn)
-Family Pressure – 150 (Multi-turn)
-
 
 {
     "id": "ehsaas_p1_1059",
@@ -75,20 +60,49 @@ Family Pressure – 150 (Multi-turn)
     }
   }
 ]
-
-
-PILLAR 2 — Heart & Social (1,250 entries)
-Deeper emotions around relationships and loneliness.
-Emotions (7)
-Breakup pain, One-sided love, Relationship confusion, Friendship betrayal, Feeling left out, Loneliness, Jealousy/FOMO.
-Conversation Style
-50% Single-turn, 40% Multi-turn (2-turn), 10% Multi-turn (3-turn).
-Distribution
-Breakup pain – 350 (Multi-turn heavy)
-One-sided love – 200 (Mix)
-Relationship confusion – 200 (Mix)
-Friendship betrayal – 150 (2-turn)
-Feeling left out – 150 (Mix)
-Loneliness – 150 (Single-turn)
-Jealousy/FOMO – 50 (Deep multi-turn)
+{
+    "id": "ehsaas_p2_2304",
+    "messages": [
+      {
+        "role": "user",
+        "content": "hum 5 saal se long distance mein hain. ab ek hi city mein hain 6 mahine se. But ab bhi woh busy rehta, barely milte. thought tha same city mein sab better hoga but worse ho gaya. Lagta physical distance excuse tha, emotional distance real problem hai."
+      },
+      {
+        "role": "assistant",
+        "content": "5 saal long distance survive kiya tumne hoping ki same city mein everything will fall into place, aur ab woh hope bhi toot raha kyunki physical proximity ne koi change nahi laaya. yaar, that realization - ki distance excuse tha, not reason - bohot dard deta hai. jab geography barrier nahi tha toh effort bhi nahi aaya means reluctance real hai, distance convenient scapegoat tha. you held on for years believing proximity would fix things. ab kya dekhna remaining hai tumhare liye to stay?"
+      }
+    ],
+    "metadata": {
+      "language": "hinglish",
+      "primary_category": "relationship_confusion",
+      "secondary_category": "one_sided_love",
+      "conversation_stage": "initial",
+      "severity": 8,
+      "escalation_needed": false,
+      "cultural_context": ["long_distance_excuse", "same_city_disappointment", "emotional_distance_realization", "5_year_investment"]
+    }
+  }
+]
+{
+    "id": "ehsaas_p2_2297",
+    "messages": [
+      {
+        "role": "user",
+        "content": "He flirts with other girls openly and says 'we're not exclusive, I never promised that'. But gets angry if I talk to other guys. Double standards clear hain but when I confront, he says I'm 'overreacting' and 'insecure'. Am I actually overthinking?"
+      },
+      {
+        "role": "assistant",
+        "content": "no, you're not overthinking - you're correctly identifying hypocrisy. woh freedom chahta hai but tumse loyalty expect karta hai, aur jab point out karo toh tumhe 'insecure' bol ke gaslight karta. that's textbook manipulation. rules uske liye alag, tumhare liye alag - and calling your valid reaction 'overreacting' is him avoiding accountability. trust your gut here. kya yeh pattern sirf flirting mein hai ya aur bhi areas mein different standards hain?"
+      }
+    ],
+    "metadata": {
+      "language": "english",
+      "primary_category": "relationship_confusion",
+      "secondary_category": null,
+      "conversation_stage": "initial",
+      "severity": 7,
+      "escalation_needed": false,
+      "cultural_context": ["double_standards", "gaslighting", "non_exclusivity_excuse", "jealousy_hypocrisy"]
+    }
+  },
 

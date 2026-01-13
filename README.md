@@ -33,7 +33,7 @@ Click on any pillar to view the raw JSON data:
 ##  Data Sample 
 [data/sample data.json]
 
-## Technical Roadmap (Work in Progress)
+## Technical Roadmap 
 currently executing the following research pipeline:
 1. **Dataset Synthesis:** Constrained prompting using LLMs to generate culturally authentic, safe, and diverse empathetic dialogues.
 2. **Model Fine-Tuning:** Performing **Supervised Fine-Tuning (SFT)** on **Gemma-2B** using **PEFT/LoRA** to adapt the model to the Ehsaas dataset.

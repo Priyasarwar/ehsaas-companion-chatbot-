@@ -21,12 +21,6 @@ The core contribution is five emotional pillars:
 5. **Safety & High Stakes (500 entries):** Crisis detection and escalation
 [View the full Dataset Methodology and Distribution here](./data/DATASET_DETAILS.md)
 
-## Technical Roadmap (Work in Progress)
-currently executing the following research pipeline:
-1. **Dataset Synthesis:** Constrained prompting using LLMs to generate culturally authentic, safe, and diverse empathetic dialogues.
-2. **Model Fine-Tuning:** Performing **Supervised Fine-Tuning (SFT)** on **Gemma-2B** using **PEFT/LoRA** to adapt the model to the Ehsaas dataset.
-3. **Dialogue Management:** Deploying via a modular architecture using **Voiceflow** as the dialogue manager to handle state tracking and human-in-the-loop evaluation.
-
 ##  Dataset Access
 Click on any pillar to view the raw JSON data:
 
@@ -37,3 +31,10 @@ Click on any pillar to view the raw JSON data:
 * [**Pillar 5: Safety & High Stakes**](./data/pilar5.json) – Panic attacks, crisis ideation, and abuse/bullying.
 
 ##  Data Sample 
+[data/sample data.json]
+
+## Technical Roadmap (Work in Progress)
+currently executing the following research pipeline:
+1. **Dataset Synthesis:** Constrained prompting using LLMs to generate culturally authentic, safe, and diverse empathetic dialogues.
+2. **Model Fine-Tuning:** Performing **Supervised Fine-Tuning (SFT)** on **Gemma-2B** using **PEFT/LoRA** to adapt the model to the Ehsaas dataset.
+3. **Dialogue Management:** Deploying via a modular architecture using **Voiceflow** as the dialogue manager to handle state tracking and human-in-the-loop evaluation.

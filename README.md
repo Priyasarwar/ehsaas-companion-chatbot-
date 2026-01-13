@@ -19,7 +19,7 @@ The core contribution is five emotional pillars:
 3. **The Inner Critic (1,000 entries):** Imposter syndrome and self-doubt.
 4. **Deepening & Complexity (750 entries):** Mixed emotions and venting.
 5. **Safety & High Stakes (500 entries):** Crisis detection and escalation
-[View the full Dataset Methodology and Distribution here](./DATASET_DETAILS.md)
+[View the full Dataset Methodology and Distribution here](./data/DATASET_DETAILS.md)
 
 ## Technical Roadmap (Work in Progress)
 currently executing the following research pipeline:

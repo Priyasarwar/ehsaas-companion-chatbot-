@@ -27,3 +27,11 @@ currently executing the following research pipeline:
 2. **Model Fine-Tuning:** Performing **Supervised Fine-Tuning (SFT)** on **Gemma-2B** using **PEFT/LoRA** to adapt the model to the Ehsaas dataset.
 3. **Dialogue Management:** Deploying via a modular architecture using **Voiceflow** as the dialogue manager to handle state tracking and human-in-the-loop evaluation.
 
+##  Dataset Access
+Click on any pillar to view the raw JSON data:
+
+* [**Pillar 1: The Daily Grind**](./data/pilar-1.jsonl) – Academic stress, burnout, and career confusion.
+* [**Pillar 2: Heart & Social**](./data/pilar2.jsonl) – Breakup pain, loneliness, and relationship nuances.
+* [**Pillar 3: The Inner Critic**](./data/pilar3.jsonl) – Imposter syndrome, self-doubt, and addiction.
+* [**Pillar 4: Deepening & Complexity**](./data/pilar4.jsonl) – Mixed emotions, venting, and emotional resistance.
+* [**Pillar 5: Safety & High Stakes**](./data/pilar5.jsonl) – Panic attacks, crisis ideation, and abuse/bullying.

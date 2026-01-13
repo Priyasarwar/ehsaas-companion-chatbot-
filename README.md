@@ -1,6 +1,6 @@
 # Ehsaas: Empathetic Conversational AI for Indian Youth
 
-**Ehsaas** (Hindi/Urdu for 'Feelings') is a research-driven project developing a **multilingual (Hinglish/English)** conversational framework tailored for the emotional support of Indian youth (ages 18–25). 
+**Ehsaas** ('Feelings') is a research-driven project developing a **multilingual (Hinglish/English)** conversational framework tailored for the emotional support of Indian youth (ages 18–25). 
 
 ---
 

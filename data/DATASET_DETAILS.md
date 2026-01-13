@@ -163,7 +163,7 @@ Total dataset size: **5,000 conversations**
 
 ---
 
-## 📊 Pillar-wise Language Distribution
+##  Pillar-wise Language Distribution
 
 | Pillar                 | Total    | Hinglish | English  | Hindi (Roman) |
 | ---------------------- | -------- | -------- | -------- | ------------- |

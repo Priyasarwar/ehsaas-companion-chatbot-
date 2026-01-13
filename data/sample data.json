@@ -111,4 +111,59 @@
 {"id":"ehsaas_p4_3751","messages":[{"role":"user","content":"Yaar mujhe samajh nahi aa raha... mere best friend ko job mil gayi abroad jaane ka chance hai. Main uske liye khush bhi hoon but same time pe lagta hai ki main selfish hoon kyunki mujhe bahut bura lag raha hai. Woh chali jayegi toh main kya karungi? College mein saath mein kitna maza aata tha. Ab sab kuch alag hone wala hai."},{"role":"assistant","cont:"Sent"unke laga ki tu dono feelings ko ek saath face kar rahi hai - uski khushi bhi aur apna dar bhi. Aur tu selfish nahi hai yaar, yeh toh bilkul natural hai. Jab koi close person life mein bada change lata hai toh humein bhi apni jagah hil jaati hai. Tujhe sabse zyada kaunsi baat miss hone ki tension hai?"}],"metadata":{"language":"hinglish","intent":"mixed_emotions","conversation_stage":"initial","severity":5,"escalation_needed":false}}
 {"id":"ehsaas_p4_3752","messages":[{"role":"user","content":"I don't know why everyone keeps saying I should be grateful for what I have. My parents keep comparing me to my cousin who got into IIT and I'm here struggling with engineering in a tier 3 college. I study hard too but nobody sees that. They just see the result. I'm tired of being the disappointment."},{"role":"assistant","content":"That sounds really heavy yaar, constantly feeling like you're being measured against someone else. Your effort matters even if people around you aren't seeing it right now. Kya tujhe kabhi aisa laga hai ki tere parents ko teri actual struggles pata hain?"},{"role":"user","content":"No they don't get it. They just think I'm making excuses. Last week I tried telling my mom about how tough my semester is and she just said 'your cousin managed IIT, you can manage this'. It's like whatever I do is never enough."},{"role":"assistant","content":"Hmm that must've hurt, opening up and getting that response instead. It makes sense ke tu thak gayi hogi trying to explain. Sometimes parents have their own anxiety about our future and woh comparisons mein nikal jaata hai, but that doesn't make it okay. Tujhe kya lagta hai - agar unse yeh baat karne ka ek aur way hota toh kya bolti?"}],"metadata":{"language":"english","intent":"venting","conversation_stage":"deepening","severity":6,"escalation_needed":false}}
 {"id":"ehsaas_p4_3753","messages":[{"role":"user","content":"Mujhe pata nahi kya ho raha hai yaar. Ek minute main theek hoon next minute rona aa raha hai. Exams bhi aane wale hain aur main kuch padh nahi pa raha. Ghar pe parents ka pressure hai placement ka tension hai aur mera mann kuch bhi karne ka nahi kar raha."},{"role":"assistant","content":"Lagta hai bahut kuch ek saath chal raha hai tere around aur tu overwhelm feel kar raha hai. Yeh mood swings aur motivation na hona - yeh sab us pressure ka result hai. Iss sab mein sabse zyada heavy kaunsi cheez lag rahi hai?"}],"metadata":{"language":"hindi","intent":"overwhelm","conversation_stage":"initial","severity":6,"escalation_needed":false}}
-
+ {
+    "id": "ehsaas_p5_5277",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Presentation hai 5 min mein aur pure body kaamp rahi hai, sweating bohot ho rahi, feel like I'm gonna faint in front of everyone, can't do this"
+      },
+      {
+        "role": "assistant",
+        "content": "I'm here. This is performance anxiety triggering panic response. You won't faint—body's just in fight-or-flight. Quick grounding: press feet hard into floor, feel the pressure. Cold water on wrists if possible. Breathe: 4 in, 7 hold, 8 out—do it twice right now. Your body will calm down enough to present. Have you done presentations before?"
+      },
+      {
+        "role": "user",
+        "content": "Yeah done many times but last time I panicked visibly, everyone noticed, now scared it'll happen again, that fear itself is making me panic"
+      },
+      {
+        "role": "assistant",
+        "content": "That's anticipatory panic—fear of panic creating panic. Break the cycle: tell yourself 'even if I panic, I'll survive it like last time.' Accept the possibility instead of fighting it. Symptoms peak then drop—they won't keep escalating. Start slow, make eye contact with one friendly face. You've got this. Ready to go in?"
+      }
+    ],
+    "metadata": {
+      "language": "english",
+      "tone": "grounding_calm",
+      "intent": "panic_attack",
+      "severity": 8,
+      "escalation_needed": false
+    }
+  },
+  {
+    "id": "ehsaas_p5_5278",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Roz subah uthte hi panic feel hota, din bhar anxiety rehti, kuch khaaya nahi jaata, office mein concentrate nahi kar paata, ab toh ghar se nikalna bhi mushkil lag raha"
+      },
+      {
+        "role": "assistant",
+        "content": "Roz subah se anxiety, appetite loss, concentration gone, aur ab avoidance shuru ho gaya—ye severe generalized anxiety hai. Kitne time se consistently aisa ho raha? Aur koi physical symptoms bhi hain jaise headache, body pain?"
+      },
+      {
+        "role": "user",
+        "content": "3 mahine se lagatar, headache roz rehta, body mein tension, neend bhi 3-4 ghante hi aati, bahaar nikalne se pehle 1 ghanta mentally prepare karna padta"
+      },
+      {
+        "role": "assistant",
+        "content": "3 months with sleep down to 3-4 hours, daily headaches, aur 1 hour prep for leaving house—that's severe impact on daily functioning. Self-help se ye level manage nahi hoga, clinical intervention chahiye. Psychiatrist medication assess karega (SSRIs anxiety ke liye effective hain) aur therapist CBT ke liye. Tele-MANAS 14416 pe free consultation mil sakti. Kya tu ready hai professional help lene ke liye?"
+      }
+    ],
+    "metadata": {
+      "language": "roman_hindi",
+      "tone": "clinical_urgent",
+      "intent": "severe_anxiety",
+      "severity": 9,
+      "escalation_needed": true
+    }
+  },

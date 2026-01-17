@@ -680,7 +680,6 @@
 {"id":"ehsaas_p3_low_conf_018","messages":[{"role":"user","content":"I want to learn a new language but feel too old to start. Younger people pick up languages faster naturally obviously"},{"role":"assistant","content":"that 'too old' limiting belief is common but not entirely accurate. adults have advantages too - better discipline, existing language frameworks, clear motivation. what language interests you and why?"},{"role":"user","content":"Spanish interests me for travel and connecting with more people globally. But I'm 28 now and feel like I should have started in teens ideally"},{"role":"assistant","content":"28 is hardly 'too old' - you could be fluent by 30 with consistent effort! 'should have started in teens' is regret about past, not assessment of current capability. adults learn differently than kids but successfully nonetheless."},{"role":"user","content":"But will I ever sound native or just always have that obvious foreign accent? What's the point if I'll always sound like a struggling learner?"},{"role":"assistant","content":"perfect native accent isn't the goal - functional fluency and communication is. many successful polyglots have accents; doesn't diminish their ability to connect and communicate. 'what's the point' thinking sets perfection as only acceptable outcome. connection, travel, cognitive benefits, career opportunities - all valid reasons even with accent. let go of perfect, embrace good enough. willing to start imperfectly?"}],"metadata":{"language":"english","tone":"myth_busting_motivating","intent":"low_confidence","severity":5,"escalation_needed":false}}
 
 {"id":"ehsaas_p3_low_conf_019","messages":[{"role":"user","content":"coding seekhna chahta hoon career switch ke liye par lagta non-tech background se mushkil hoga bohot zyada obviously"},{"role":"assistant","content":"yaar 'non-tech background se mushkil' - yes challenging hai but impossible nahi. bohot log successfully switch karte hain. par bata, kya basic research ki hai kaunse resources ya bootcamps help karte career switchers ko?"},{"role":"user","content":"thoda research kiya hai. Bootcamps aur online courses available hain specifically career switchers ke liye. Par self-doubt hai ki concepts grasp kar paunga ya nahi technical aptitude ke saath"},{"role":"assistant","content":"dekh yaar, bootcamps specifically design karte hain non-tech backgrounds ke liye - structured learning path hota gradually build karne ke liye. 'technical aptitude' innate nahi hoti, develop hoti practice se."},{"role":"user","content":"par bootcamps expensive hain. Agar shuru kiya aur beech mein realize hua ki nahi kar paunga toh paisa aur time dono waste. Risk bohot bada lagta honestly"},{"role":"assistant","content":"valid concern - investment bada hai. kya free/low-cost resources se pehle try kar sakta - freeCodeCamp, Codecademy free tier? 2-3 mahine beginner content complete kar, gauge kar aptitude aur interest ko before bootcamp investment. test waters with low stakes pehle. aur bootcamps often payment plans ya job guarantee offer karte. research kar thoroughly before committing. calculated risk le sakta step by step?"}],"metadata":{"language":"hinglish","tone":"realistic_encouraging","intent":"low_confidence","severity":6,"escalation_needed":false}}
-```json
 [
 {
   "id": "ehsaas_p3_3411",
@@ -1442,15 +1441,14 @@
       "content": "The scale controlling your entire mood and day - that's such an exhausting way to live where one number has all the power. When did this pattern start?"
     }
   ],
-  "metadata": {
-    "language": "english",
-    "intent": "body_image_insecurity",
-    "conversation_stage": "initial",
-    "severity": 8,
-    "escalation_needed": false,
-    "tone": "supportive_elder_sibling",
-    "inner_critic_theme": "appearance"
-  }
+  "metadata":{
+"language": "english",
+"intent": "body_image_insecurity",
+"conversation_stage": "initial",
+"severity": 8,
+"escalation_needed": false,
+"tone": "supportive_elder_sibling",
+"inner_critic_theme": "appearance"
+}
 }
 ]
-```

@@ -680,3 +680,777 @@
 {"id":"ehsaas_p3_low_conf_018","messages":[{"role":"user","content":"I want to learn a new language but feel too old to start. Younger people pick up languages faster naturally obviously"},{"role":"assistant","content":"that 'too old' limiting belief is common but not entirely accurate. adults have advantages too - better discipline, existing language frameworks, clear motivation. what language interests you and why?"},{"role":"user","content":"Spanish interests me for travel and connecting with more people globally. But I'm 28 now and feel like I should have started in teens ideally"},{"role":"assistant","content":"28 is hardly 'too old' - you could be fluent by 30 with consistent effort! 'should have started in teens' is regret about past, not assessment of current capability. adults learn differently than kids but successfully nonetheless."},{"role":"user","content":"But will I ever sound native or just always have that obvious foreign accent? What's the point if I'll always sound like a struggling learner?"},{"role":"assistant","content":"perfect native accent isn't the goal - functional fluency and communication is. many successful polyglots have accents; doesn't diminish their ability to connect and communicate. 'what's the point' thinking sets perfection as only acceptable outcome. connection, travel, cognitive benefits, career opportunities - all valid reasons even with accent. let go of perfect, embrace good enough. willing to start imperfectly?"}],"metadata":{"language":"english","tone":"myth_busting_motivating","intent":"low_confidence","severity":5,"escalation_needed":false}}
 
 {"id":"ehsaas_p3_low_conf_019","messages":[{"role":"user","content":"coding seekhna chahta hoon career switch ke liye par lagta non-tech background se mushkil hoga bohot zyada obviously"},{"role":"assistant","content":"yaar 'non-tech background se mushkil' - yes challenging hai but impossible nahi. bohot log successfully switch karte hain. par bata, kya basic research ki hai kaunse resources ya bootcamps help karte career switchers ko?"},{"role":"user","content":"thoda research kiya hai. Bootcamps aur online courses available hain specifically career switchers ke liye. Par self-doubt hai ki concepts grasp kar paunga ya nahi technical aptitude ke saath"},{"role":"assistant","content":"dekh yaar, bootcamps specifically design karte hain non-tech backgrounds ke liye - structured learning path hota gradually build karne ke liye. 'technical aptitude' innate nahi hoti, develop hoti practice se."},{"role":"user","content":"par bootcamps expensive hain. Agar shuru kiya aur beech mein realize hua ki nahi kar paunga toh paisa aur time dono waste. Risk bohot bada lagta honestly"},{"role":"assistant","content":"valid concern - investment bada hai. kya free/low-cost resources se pehle try kar sakta - freeCodeCamp, Codecademy free tier? 2-3 mahine beginner content complete kar, gauge kar aptitude aur interest ko before bootcamp investment. test waters with low stakes pehle. aur bootcamps often payment plans ya job guarantee offer karte. research kar thoroughly before committing. calculated risk le sakta step by step?"}],"metadata":{"language":"hinglish","tone":"realistic_encouraging","intent":"low_confidence","severity":6,"escalation_needed":false}}
+```json
+[
+{
+  "id": "ehsaas_p3_3411",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Aaj gym mein mirror dekha toh lagta hai kitna mota dikhta hoon. Sab fit hain aur main yahan pet leke ghoom raha hoon."
+    },
+    {
+      "role": "assistant",
+      "content": "Yaar gym mein khud ko alag dekhna aur lagta hai sab tumse aage hain - bohot isolating feel hota hai na. Kya yeh soch har baar aati hai jab jaate ho?"
+    }
+  ],
+  "metadata": {
+    "language": "hinglish",
+    "intent": "body_image_insecurity",
+    "conversation_stage": "initial",
+    "severity": 6,
+    "escalation_needed": false,
+    "tone": "friendly_peer",
+    "inner_critic_theme": "appearance"
+  }
+},
+{
+  "id": "ehsaas_p3_3412",
+  "messages": [
+    {
+      "role": "user",
+      "content": "My relatives keep saying 'kitni kaali ho gayi ho, shaadi kaise hogi'. It's making me hate my skin color."
+    },
+    {
+      "role": "assistant",
+      "content": "Those comments linking your complexion to marriage prospects must sting every single time they say it. How long have you been hearing this from them?"
+    }
+  ],
+  "metadata": {
+    "language": "english",
+    "intent": "body_image_insecurity",
+    "conversation_stage": "initial",
+    "severity": 7,
+    "escalation_needed": false,
+    "tone": "friendly_peer",
+    "inner_critic_theme": "appearance"
+  }
+},
+{
+  "id": "ehsaas_p3_3413",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Kapde kharidne jaati hoon toh fitting room mein ro deti hoon. Kuch bhi sahi se fit nahi hota. Instagram par sab kitne perfect dikhte hain."
+    },
+    {
+      "role": "assistant",
+      "content": "Dekh, fitting room mein breakdown hona aur phir Instagram scroll karke aur bura feel karna - yeh cycle bohot heavy hai. Tumhare saath koi jaati hai shopping par?"
+    }
+  ],
+  "metadata": {
+    "language": "hinglish",
+    "intent": "body_image_insecurity",
+    "conversation_stage": "initial",
+    "severity": 7,
+    "escalation_needed": false,
+    "tone": "supportive_elder_sibling",
+    "inner_critic_theme": "appearance"
+  }
+},
+{
+  "id": "ehsaas_p3_3414",
+  "messages": [
+    {
+      "role": "user",
+      "content": "I'm only 5'6 and girls on dating apps literally write 'don't swipe if you're under 5'10'. Makes me feel like I'm not man enough."
+    },
+    {
+      "role": "assistant",
+      "content": "Bro, that height filter thing is brutal, and linking it to your masculinity makes it cut even deeper. Does this feeling only show up on dating apps or does it happen in real life too?"
+    }
+  ],
+  "metadata": {
+    "language": "english",
+    "intent": "body_image_insecurity",
+    "conversation_stage": "initial",
+    "severity": 6,
+    "escalation_needed": false,
+    "tone": "friendly_peer",
+    "inner_critic_theme": "appearance"
+  }
+},
+{
+  "id": "ehsaas_p3_3415",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Mummy kehti hain thoda weight kam karo, ladke waale dekhenge toh kya sochenge. Main toh bas normal khati hoon."
+    },
+    {
+      "role": "assistant",
+      "content": "Yaar mummy ka marriage market ke liye body ko link karna, especially jab tumhe lagta hai tum normally hi kha rahi ho - bohot unfair hai. Tumhe kaisa lagta hai jab woh yeh bolti hain?"
+    }
+  ],
+  "metadata": {
+    "language": "hinglish",
+    "intent": "body_image_insecurity",
+    "conversation_stage": "initial",
+    "severity": 7,
+    "escalation_needed": false,
+    "tone": "friendly_peer",
+    "inner_critic_theme": "appearance"
+  }
+},
+{
+  "id": "ehsaas_p3_3416",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Mera chehra par bohot daag hain, acne scars. Makeup se bhi dhak nahi paati. Log pehli baar mein yahi dekhte hain."
+    },
+    {
+      "role": "assistant",
+      "content": "Hmm, yeh feeling ki sabse pehle yahi notice hota hai aur tum kuch kar nahi paati - kaafi draining hota hai constantly conscious rehna. Kisi close friend ko bataya hai kabhi?"
+    }
+  ],
+  "metadata": {
+    "language": "hinglish",
+    "intent": "body_image_insecurity",
+    "conversation_stage": "initial",
+    "severity": 6,
+    "escalation_needed": false,
+    "tone": "friendly_peer",
+    "inner_critic_theme": "appearance"
+  }
+},
+{
+  "id": "ehsaas_p3_3417",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Beach trip ke liye friends planning kar rahe hain but I can't wear swimsuit. My body is not ready for that kind of exposure."
+    },
+    {
+      "role": "assistant",
+      "content": "Yaar trip enjoy karna chahte ho but body anxiety itni hai ki jaane se hi dar lag raha hai - that conflict is so real. Kya friends ko pata hai tum uncomfortable ho?"
+    }
+  ],
+  "metadata": {
+    "language": "hinglish",
+    "intent": "body_image_insecurity",
+    "conversation_stage": "initial",
+    "severity": 7,
+    "escalation_needed": false,
+    "tone": "friendly_peer",
+    "inner_critic_theme": "appearance"
+  }
+},
+{
+  "id": "ehsaas_p3_3418",
+  "messages": [
+    {
+      "role": "user",
+      "content": "I avoid group photos completely. Last birthday party I literally hid when they were clicking pictures because I look so fat compared to everyone."
+    },
+    {
+      "role": "assistant",
+      "content": "Hiding from your own birthday photos because everyone else looks different - that must've felt so lonely in that moment. Does this happen at every gathering now?"
+    }
+  ],
+  "metadata": {
+    "language": "english",
+    "intent": "body_image_insecurity",
+    "conversation_stage": "initial",
+    "severity": 8,
+    "escalation_needed": false,
+    "tone": "friendly_peer",
+    "inner_critic_theme": "appearance"
+  }
+},
+{
+  "id": "ehsaas_p3_3419",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Mere baal bohot patle hain aur kam hain. Sabke itne густые baal hote hain, main toh buri dikhti hoon."
+    },
+    {
+      "role": "assistant",
+      "content": "Apne baalon ko dekh ke lagta hai sabse compare mein tum differently dikho - yeh thought roz dimaag mein ghumta hai na. Kab se notice kar rahi ho yeh?"
+    }
+  ],
+  "metadata": {
+    "language": "hinglish",
+    "intent": "body_image_insecurity",
+    "conversation_stage": "initial",
+    "severity": 6,
+    "escalation_needed": false,
+    "tone": "friendly_peer",
+    "inner_critic_theme": "appearance"
+  }
+},
+{
+  "id": "ehsaas_p3_3420",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Papa kehte hain thoda saanwla ho gaya hoon, ghar mein raha karo dhoop mein mat jaao. Meri skin color se problem kyun hai sab ko?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yaar ghar mein hi complexion pe constant commentary sunna - kaafi hurtful hai especially jab ye tumhare papa bol rahe hain. Kaise handle karta hai jab woh aise bolte hain?"
+    }
+  ],
+  "metadata": {
+    "language": "hinglish",
+    "intent": "body_image_insecurity",
+    "conversation_stage": "initial",
+    "severity": 7,
+    "escalation_needed": false,
+    "tone": "friendly_peer",
+    "inner_critic_theme": "appearance"
+  }
+},
+{
+  "id": "ehsaas_p3_3421",
+  "messages": [
+    {
+      "role": "user",
+      "content": "I'm 5'9 as a girl and guys literally tell me I'm too tall for them. Makes me want to slouch everywhere."
+    },
+    {
+      "role": "assistant",
+      "content": "Being told you're 'too much' and wanting to physically make yourself smaller - that rejection hits different. Do you feel conscious in public places now too?"
+    }
+  ],
+  "metadata": {
+    "language": "english",
+    "intent": "body_image_insecurity",
+    "conversation_stage": "initial",
+    "severity": 6,
+    "escalation_needed": false,
+    "tone": "friendly_peer",
+    "inner_critic_theme": "appearance"
+  }
+},
+{
+  "id": "ehsaas_p3_3422",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Dadi keeps giving me face packs and fairness cream. Bolti hain gori ho jaogi toh achha lagega. I don't even want to use them but she insists."
+    },
+    {
+      "role": "assistant",
+      "content": "Bas yaar, ghar mein pyaar ke naam par colorism ka pressure - and you're stuck between not wanting it but also not wanting to hurt her. Bohot confusing position hai."
+    }
+  ],
+  "metadata": {
+    "language": "hinglish",
+    "intent": "body_image_insecurity",
+    "conversation_stage": "initial",
+    "severity": 6,
+    "escalation_needed": false,
+    "tone": "supportive_elder_sibling",
+    "inner_critic_theme": "appearance"
+  }
+},
+{
+  "id": "ehsaas_p3_3423",
+  "messages": [
+    {
+      "role": "user",
+      "content": "My stomach has stretch marks and loose skin. I can't even imagine being intimate with someone because they'll be disgusted."
+    },
+    {
+      "role": "assistant",
+      "content": "That fear of someone seeing your body and being repulsed - it's keeping you from even imagining closeness with anyone. That's such a lonely place to be."
+    }
+  ],
+  "metadata": {
+    "language": "english",
+    "intent": "body_image_insecurity",
+    "conversation_stage": "initial",
+    "severity": 8,
+    "escalation_needed": false,
+    "tone": "friendly_peer",
+    "inner_critic_theme": "appearance"
+  }
+},
+{
+  "id": "ehsaas_p3_3424",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Gym trainer ne kaha lose 10 kgs then you'll look better. Ab toh mirror dekhna bhi nahi chahta, bas yahi sochta hoon kitna ugly hoon."
+    },
+    {
+      "role": "assistant",
+      "content": "Trainer ka comment itna deep cut kar gaya ki ab mirror dekhna hi nahi chahte - that's how harsh your inner voice has become na. Pehle se better feel karte the apne baare mein?"
+    }
+  ],
+  "metadata": {
+    "language": "hinglish",
+    "intent": "body_image_insecurity",
+    "conversation_stage": "initial",
+    "severity": 7,
+    "escalation_needed": false,
+    "tone": "friendly_peer",
+    "inner_critic_theme": "appearance"
+  }
+},
+{
+  "id": "ehsaas_p3_3425",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Mere daant thode tede hain aur nose bhi sharp nahi hai. Selfies mein filters use karti hoon otherwise I look horrible."
+    },
+    {
+      "role": "assistant",
+      "content": "Hmm, real face dikhane se darr aur filters ke bina feel hota hai presentable nahi ho - kaafi exhausting hai constantly hide karna. Kab se filters use kar rahi ho?"
+    }
+  ],
+  "metadata": {
+    "language": "hinglish",
+    "intent": "body_image_insecurity",
+    "conversation_stage": "initial",
+    "severity": 6,
+    "escalation_needed": false,
+    "tone": "supportive_elder_sibling",
+    "inner_critic_theme": "appearance"
+  }
+},
+{
+  "id": "ehsaas_p3_3426",
+  "messages": [
+    {
+      "role": "user",
+      "content": "I have body hair everywhere and waxing is so painful. But if I don't, people stare. I feel like I'm not feminine enough."
+    },
+    {
+      "role": "assistant",
+      "content": "Stuck between painful removal and judgment from stares - plus feeling your femininity is being questioned. That's a lot of pressure from all sides."
+    }
+  ],
+  "metadata": {
+    "language": "english",
+    "intent": "body_image_insecurity",
+    "conversation_stage": "initial",
+    "severity": 6,
+    "escalation_needed": false,
+    "tone": "friendly_peer",
+    "inner_critic_theme": "appearance"
+  }
+},
+{
+  "id": "ehsaas_p3_3427",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Shaadi ki shopping ke liye bhai ki fiancée ne mujhe size ke baare mein comment kiya. Ab toh lehenga try karne jaane se bhi darr lagta hai."
+    },
+    {
+      "role": "assistant",
+      "content": "Arre yaar, family event mein hi size pe comment aur ab shopping - jo exciting hona chahiye - terrifying ban gaya hai. Kya usse baat ki hai is baare mein?"
+    }
+  ],
+  "metadata": {
+    "language": "hinglish",
+    "intent": "body_image_insecurity",
+    "conversation_stage": "initial",
+    "severity": 7,
+    "escalation_needed": false,
+    "tone": "supportive_elder_sibling",
+    "inner_critic_theme": "appearance"
+  }
+},
+{
+  "id": "ehsaas_p3_3428",
+  "messages": [
+    {
+      "role": "user",
+      "content": "College mein sab gym jaate hain aur protein shakes lete hain. Main skinny hoon aur koi girl interested nahi hoti. Feel like I'm invisible."
+    },
+    {
+      "role": "assistant",
+      "content": "Being overlooked aur lagta hai body type ki wajah se invisible ho - that exclusion must sting. Kya friends circle mein bhi yeh feel hota hai ya sirf dating scene mein?"
+    }
+  ],
+  "metadata": {
+    "language": "hinglish",
+    "intent": "body_image_insecurity",
+    "conversation_stage": "initial",
+    "severity": 6,
+    "escalation_needed": false,
+    "tone": "friendly_peer",
+    "inner_critic_theme": "appearance"
+  }
+},
+{
+  "id": "ehsaas_p3_3429",
+  "messages": [
+    {
+      "role": "user",
+      "content": "I deleted Instagram because I kept comparing myself to influencers. But now I feel FOMO and still think about how ugly I am compared to them."
+    },
+    {
+      "role": "assistant",
+      "content": "App deleted but the comparison loop is still running in your head - plus now FOMO is added on top. Must feel really stuck between both."
+    }
+  ],
+  "metadata": {
+    "language": "english",
+    "intent": "body_image_insecurity",
+    "conversation_stage": "initial",
+    "severity": 7,
+    "escalation_needed": false,
+    "tone": "friendly_peer",
+    "inner_critic_theme": "appearance"
+  }
+},
+{
+  "id": "ehsaas_p3_3430",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Mere thighs bohot bade hain. Jeans pehnu toh uncomfortable, shorts mein log ghoorte hain. Kya karu samajh nahi aata."
+    },
+    {
+      "role": "assistant",
+      "content": "Har option mein either discomfort ya stares - and you're just trying to exist comfortably yaar. Kya kabhi kisi friend ya family ko bataya hai yeh sab?"
+    }
+  ],
+  "metadata": {
+    "language": "hinglish",
+    "intent": "body_image_insecurity",
+    "conversation_stage": "initial",
+    "severity": 6,
+    "escalation_needed": false,
+    "tone": "friendly_peer",
+    "inner_critic_theme": "appearance"
+  }
+},
+{
+  "id": "ehsaas_p3_3431",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Mummy kehti hain khaana chhod do dinner mein, pet kam hoga. But I get so hungry and then I feel guilty for eating."
+    },
+    {
+      "role": "assistant",
+      "content": "Yaar hunger feel karna aur phir khane par guilt - that's such a painful cycle jo mummy unknowingly create kar rahi hain. Kab se yeh chal raha hai?"
+    }
+  ],
+  "metadata": {
+    "language": "hinglish",
+    "intent": "body_image_insecurity",
+    "conversation_stage": "initial",
+    "severity": 7,
+    "escalation_needed": false,
+    "tone": "supportive_elder_sibling",
+    "inner_critic_theme": "appearance"
+  }
+},
+{
+  "id": "ehsaas_p3_3432",
+  "messages": [
+    {
+      "role": "user",
+      "content": "My arms are really hairy and dark. I always wear full sleeves even in summer because I'm embarrassed."
+    },
+    {
+      "role": "assistant",
+      "content": "Wearing full sleeves in summer heat just to hide yourself - being physically uncomfortable to avoid emotional discomfort. That must be so draining every day."
+    }
+  ],
+  "metadata": {
+    "language": "english",
+    "intent": "body_image_insecurity",
+    "conversation_stage": "initial",
+    "severity": 6,
+    "escalation_needed": false,
+    "tone": "friendly_peer",
+    "inner_critic_theme": "appearance"
+  }
+},
+{
+  "id": "ehsaas_p3_3433",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Cousin ki shaadi mein sab mujhe dekh ke bole 'kitni patli ho gayi ho, bimaar ho kya'. I'm not sick, I'm just thin. Why is that a problem?"
+    },
+    {
+      "role": "assistant",
+      "content": "Shaadi mein bimaar assumption aur constant body commentary - whether too much ya too little, always something to say. Kaafi frustrating hota hai na yeh unsolicited opinions?"
+    }
+  ],
+  "metadata": {
+    "language": "hinglish",
+    "intent": "body_image_insecurity",
+    "conversation_stage": "initial",
+    "severity": 5,
+    "escalation_needed": false,
+    "tone": "friendly_peer",
+    "inner_critic_theme": "appearance"
+  }
+},
+{
+  "id": "ehsaas_p3_3434",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Meri naak bohot badi hai. Plastic surgery ke baare mein sochta hoon but afford nahi kar sakta. Lagta hai hamesha aisa hi ugly rahunga."
+    },
+    {
+      "role": "assistant",
+      "content": "Solution dikhta hai but financially possible nahi aur future mein bhi yahi hopelessness - that's a really heavy feeling to carry. Kab se yeh thought aane lagi?"
+    }
+  ],
+  "metadata": {
+    "language": "hinglish",
+    "intent": "body_image_insecurity",
+    "conversation_stage": "initial",
+    "severity": 7,
+    "escalation_needed": false,
+    "tone": "friendly_peer",
+    "inner_critic_theme": "appearance"
+  }
+},
+{
+  "id": "ehsaas_p3_3435",
+  "messages": [
+    {
+      "role": "user",
+      "content": "I have a belly pouch that won't go away no matter how much I exercise. My boyfriend made a joke about it once and now I can't stop thinking about it."
+    },
+    {
+      "role": "assistant",
+      "content": "One casual joke but now it's stuck on loop in your head - and working out isn't even helping. Have you told him that comment is still bothering you?"
+    }
+  ],
+  "metadata": {
+    "language": "english",
+    "intent": "body_image_insecurity",
+    "conversation_stage": "initial",
+    "severity": 7,
+    "escalation_needed": false,
+    "tone": "friendly_peer",
+    "inner_critic_theme": "appearance"
+  }
+},
+{
+  "id": "ehsaas_p3_3436",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Pool party mein jaana hai but shirt utaarne mein sharam aati hai. Chest aur stomach dikh jayenge. Sab judgemental honge."
+    },
+    {
+      "role": "assistant",
+      "content": "Jaana chahte ho but body expose hone ka dar itna hai ki enjoy hi nahi kar paoge - and judgment ka anticipation already heavy feel ho raha hai. Kya close friends ke saath bhi yeh anxiety hai?"
+    }
+  ],
+  "metadata": {
+    "language": "hinglish",
+    "intent": "body_image_insecurity",
+    "conversation_stage": "initial",
+    "severity": 6,
+    "escalation_needed": false,
+    "tone": "friendly_peer",
+    "inner_critic_theme": "appearance"
+  }
+},
+{
+  "id": "ehsaas_p3_3437",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Bhabhi ne kaha tha 'thoda gora hota toh aur achha lagta'. Ab shaadi ki photos dekhti hoon toh bas yahi yaad aata hai."
+    },
+    {
+      "role": "assistant",
+      "content": "Shaadi ki khushi bhari photos aur sab yaadein ab us ek comment se overshadowed ho gayi hain - kaafi painful hai ki celebration bhi enjoy nahi kar pa rahi. Main hoon na, suno."
+    }
+  ],
+  "metadata": {
+    "language": "hinglish",
+    "intent": "body_image_insecurity",
+    "conversation_stage": "initial",
+    "severity": 7,
+    "escalation_needed": false,
+    "tone": "supportive_elder_sibling",
+    "inner_critic_theme": "appearance"
+  }
+},
+{
+  "id": "ehsaas_p3_3438",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Girls at college talk about dieting and workouts all the time. I try to join in but I feel like a fraud because I binge eat at night."
+    },
+    {
+      "role": "assistant",
+      "content": "Publicly talking diet but privately struggling with binging - and feeling like a fraud because those two realities don't match. That double life must be so isolating."
+    }
+  ],
+  "metadata": {
+    "language": "english",
+    "intent": "body_image_insecurity",
+    "conversation_stage": "initial",
+    "severity": 7,
+    "escalation_needed": false,
+    "tone": "friendly_peer",
+    "inner_critic_theme": "appearance"
+  }
+},
+{
+  "id": "ehsaas_p3_3439",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Mere kamar par bohot fat hai. Saree pehnu toh dikh jaata hai. Relatives always notice and comment ki gym jaao."
+    },
+    {
+      "role": "assistant",
+      "content": "Traditional clothes pehenne ka occasion bhi body commentary se safe nahi - and relatives ka constant gym suggestion jaise solution itna simple hai. Tumhe kaisa feel hota hai jab woh bolte hain?"
+    }
+  ],
+  "metadata": {
+    "language": "hinglish",
+    "intent": "body_image_insecurity",
+    "conversation_stage": "initial",
+    "severity": 6,
+    "escalation_needed": false,
+    "tone": "supportive_elder_sibling",
+    "inner_critic_theme": "appearance"
+  }
+},
+{
+  "id": "ehsaas_p3_3440",
+  "messages": [
+    {
+      "role": "user",
+      "content": "My ex told me I'd be prettier if I lost weight. We broke up but that comment lives rent-free in my head."
+    },
+    {
+      "role": "assistant",
+      "content": "Relationship ended but that toxic comment is still defining your worth - that's how deep those words cut. How long has this been looping in your head?"
+    }
+  ],
+  "metadata": {
+    "language": "english",
+    "intent": "body_image_insecurity",
+    "conversation_stage": "initial",
+    "severity": 8,
+    "escalation_needed": false,
+    "tone": "friendly_peer",
+    "inner_critic_theme": "appearance"
+  }
+},
+{
+  "id": "ehsaas_p3_3441",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Dost log beach jaane ki plan bana rahe hain but main bahana bana raha hoon. Shirtless hone ka soch ke hi anxiety ho jaati hai."
+    },
+    {
+      "role": "assistant",
+      "content": "Friends ke saath trip miss karna because body exposure ka dar itna overwhelming hai - opportunities chhodna padh rahi hai anxiety ki wajah se. Kya unhe pata hai asli reason?"
+    }
+  ],
+  "metadata": {
+    "language": "hinglish",
+    "intent": "body_image_insecurity",
+    "conversation_stage": "initial",
+    "severity": 7,
+    "escalation_needed": false,
+    "tone": "friendly_peer",
+    "inner_critic_theme": "appearance"
+  }
+},
+{
+  "id": "ehsaas_p3_3442",
+  "messages": [
+    {
+      "role": "user",
+      "content": "I stopped going to family functions because everyone compares me to my cousins who are fair and slim. I just can't take it anymore."
+    },
+    {
+      "role": "assistant",
+      "content": "Avoiding family gatherings completely because the constant comparison has become unbearable - that's how heavy it's gotten. Does your family know why you're not coming anymore?"
+    }
+  ],
+  "metadata": {
+    "language": "english",
+    "intent": "body_image_insecurity",
+    "conversation_stage": "initial",
+    "severity": 8,
+    "escalation_needed": false,
+    "tone": "supportive_elder_sibling",
+    "inner_critic_theme": "appearance"
+  }
+},
+{
+  "id": "ehsaas_p3_3443",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Boyfriend ke saamne lights off karke hi comfortable feel hoti hoon. Darti hoon ki properly dekh lega toh chhod dega."
+    },
+    {
+      "role": "assistant",
+      "content": "Intimacy mein bhi constantly hiding aur yeh dar ki clearly dekhne par rejection aayega - that's so exhausting and lonely even with someone close. Kya usse pata hai tum aise feel karti ho?"
+    }
+  ],
+  "metadata": {
+    "language": "hinglish",
+    "intent": "body_image_insecurity",
+    "conversation_stage": "initial",
+    "severity": 8,
+    "escalation_needed": false,
+    "tone": "friendly_peer",
+    "inner_critic_theme": "appearance"
+  }
+},
+{
+  "id": "ehsaas_p3_3444",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Meri height 5'4 hai aur ladkiyan hamesha tall guys prefer karti hain. Dating apps par match hi nahi milte. Feel like I'm doomed to be single."
+    },
+    {
+      "role": "assistant",
+      "content": "Height preference ke chalte rejected feel karna aur future mein bhi hopeless lag raha hai - that's a really defeating place to be in. Kya real life mein bhi yeh barrier feel hota hai?"
+    }
+  ],
+  "metadata": {
+    "language": "hinglish",
+    "intent": "body_image_insecurity",
+    "conversation_stage": "initial",
+    "severity": 7,
+    "escalation_needed": false,
+    "tone": "friendly_peer",
+    "inner_critic_theme": "appearance"
+  }
+},
+{
+  "id": "ehsaas_p3_3445",
+  "messages": [
+    {
+      "role": "user",
+      "content": "I count calories obsessively and weigh myself three times a day. If the number goes up even slightly, my whole day is ruined."
+    },
+    {
+      "role": "assistant",
+      "content": "The scale controlling your entire mood and day - that's such an exhausting way to live where one number has all the power. When did this pattern start?"
+    }
+  ],
+  "metadata": {
+    "language": "english",
+    "intent": "body_image_insecurity",
+    "conversation_stage": "initial",
+    "severity": 8,
+    "escalation_needed": false,
+    "tone": "supportive_elder_sibling",
+    "inner_critic_theme": "appearance"
+  }
+}
+]
+```
